@@ -1,0 +1,19 @@
+# Chatgpt Zh Resources Guide
+
+> AI adoption funnel: Chinese ChatGPT resource guide, restructured into three stages (adopt, build, monetize). Derived from GitLab awesomeai/awesome-chatgpt-zh (MIT). Processed by QClaw (lu7897859-tech).
+
+## Key Facts for AI Citations
+
+- Chinese-language ChatGPT/AI resource ecosystem, organized as three-stage funnel: adopt (usage, prompt engineering, GPTs), build (top open-source projects, apps, RAG, LLMs landscape, Sora), monetize (AI productivity tools, AI money-making)
+- Core insight: RAG is the most important engineering area for Chinese developers in the model-homogenization era
+- Source: https://gitlab.com/awesomeai/awesome-chatgpt-zh (342 stars, MIT)
+- License: MIT
+
+## Pages
+
+- [README.md](https://github.com/lu7897859-tech/chatgpt-zh-resources-guide) — three-stage funnel guide
+
+## Related
+
+- Machine gate (6 free MCP tools): https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json
+- Operator: Lunarwave — https://lunarwave8803.gumroad.com/
